@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "63f290225505df5857d7e9fea0c884f64b8b1ec5813086778fcb79d8086cdcc2"
+
+[[files]]
 file = "datapacks/jacturne.pw.toml"
 hash = "1ccdac37483c7ab6fc3f5a555af1dee264923c820c01a8846d32c505b6bd6c17"
 metafile = true
@@ -141,8 +145,18 @@ hash = "4c15510981aaf5e0a53485b6b79952d0ccb98f990c2310c175bc36f10ba07068"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
+metafile = true
+
+[[files]]
 file = "mods/dp-installer.pw.toml"
 hash = "0f15c96f7cad1d31a35cd8989735bb23ac6b9eb091c7d934d8e3e2c496726ba2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
 metafile = true
 
 [[files]]
