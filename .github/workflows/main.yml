@@ -14,13 +14,8 @@ jobs:
         uses: actions/checkout@v3.3.0
       - name: Trim Git SHA
         uses: priyesh2609/sha-trim-action@v1.1.1
-      - name: Download latest verison of Packwiz
-        uses: actions/download-artifact@v4
-        with:
-          repository: packwiz/packwiz
-          name: Linux 64-bit x86
-          path: ./
-          github-token: ${{ secrets.TOKEN}}
+      - name: Download packwiz
+        run: curl -OJ https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
       - name: Unzip packwiz zip
         run: unzip 'Linux 64-bit x86.zip'
       - name: Produce .mrpack
