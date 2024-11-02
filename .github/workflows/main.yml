@@ -31,3 +31,8 @@ jobs:
         with:
           name: ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
           path: ./artifact
+      - name: Test with itzg/minecraft-server
+        uses: addnab/docker-run-action@v3
+        with:
+          image: itzg/minecraft-server:latest
+          options: -v ${PWD}/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack:/modpack.mrpack -e MODRINTH_MODPACK=/modpack.mrpack -e EULA=true --stop-timeout 600
