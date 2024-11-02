@@ -14,16 +14,18 @@ jobs:
       - name: Trim Git SHA
         uses: priyesh2609/sha-trim-action@v1.1.1
       - name: Download latest verison of Packwiz
-        uses: aochmann/actions-download-artifact@1.0.4
+        uses: actions/download-artifact@v4
         with:
-          repo: packwiz/packwiz
+          repository: packwiz/packwiz
           name: Linux 64-bit x86
-          latest: true
           path: ./
+          github-token: ${{ secrets.TOKEN}}
+      - name: Unzip packwiz zip
+        run: unzip 'Linux 64-bit x86.zip'
       - name: Produce .mrpack
         run: |
           chmod +x ./packwiz
-          ./packwiz mr export -o workingtitle-modpack-git-${{ env.TRIMMED_SHA }}.mrpack
+          ./packwiz mr export -o ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
       - name: Upload Artifact
         uses: kittaakos/upload-artifact-as-is@v0
         with:
