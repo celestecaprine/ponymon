@@ -32,4 +32,4 @@ jobs:
           name: ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
           path: ./artifact
       - name: Test with itzg/minecraft-server
-        run: docker run -it --rm -v ${{ env.GITHUB_WORKSPACE }}/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack:/modpack.mrpack -e MODRINTH_MODPACK=/modpack.mrpack -e EULA=TRUE --stop-timeout 300 itzg/minecraft-server
+        run: docker run --rm -v ${{ env.GITHUB_WORKSPACE }}/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack:/modpack.mrpack -e MODRINTH_MODPACK=/modpack.mrpack -e EULA=TRUE --stop-timeout 300 itzg/minecraft-server
