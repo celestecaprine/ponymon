@@ -150,8 +150,8 @@ hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
 metafile = true
 
 [[files]]
-file = "mods/dp-installer.pw.toml"
-hash = "0f15c96f7cad1d31a35cd8989735bb23ac6b9eb091c7d934d8e3e2c496726ba2"
+file = "mods/datapacks.pw.toml"
+hash = "a8ba997ab846d6a848fe047e5b72016e4c7c9dd2c2b10ca85deb29a9624fe768"
 metafile = true
 
 [[files]]
