@@ -34,4 +34,4 @@ jobs:
       - name: Test with itzg/minecraft-server
         run: |
           ls ${{ env.GITHUB_WORKSPACE}}
-          docker run --rm -v ${{ env.GITHUB_WORKSPACE }}:/gh -e MODRINTH_MODPACK=/gh/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack -e EULA=TRUE -e TYPE=MODRINTH --stop-timeout 300 itzg/minecraft-server
+          docker run --rm -v ./:/gh -e MODRINTH_MODPACK=/gh/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack -e EULA=TRUE -e TYPE=MODRINTH --stop-timeout 300 itzg/minecraft-server
