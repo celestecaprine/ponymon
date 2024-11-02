@@ -1,6 +1,5 @@
 name = "Cobblemon Field Moves"
 filename = "cobblemon-field-moves-1.5-fabric-1.1.1.jar"
-side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/gRy0el9F/versions/YDNPYu9D/cobblemon-field-moves-1.5-fabric-1.1.1.jar"

@@ -1,12 +1,12 @@
 name = "Ponymon"
 author = "SoniaSquishy & Shebang"
-version = "dev"
+version = "0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b83c06a46202d39b8c90c7d8b08ac8682ceee8520b71d212d82f2ba647cf4f74"
+hash = "60cbc5e18ddea2342edce959ae0e951fc772752348b1e2a19c06dc06bfb0b1af"
 
 [versions]
 fabric = "0.16.9"
@@ -14,4 +14,3 @@ minecraft = "1.20.1"
 
 [options]
 datapack-folder = "datapacks"
-meta-folder-base = "pack"

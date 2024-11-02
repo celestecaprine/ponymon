@@ -1,6 +1,5 @@
 name = "LivelierPokemon"
 filename = "LivelierPokemon-1.0.2.jar"
-side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/TrneBt3p/versions/DohTNJy3/LivelierPokemon-1.0.2.jar"
