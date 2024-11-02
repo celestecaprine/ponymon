@@ -1,0 +1,291 @@
+hash-format = "sha256"
+
+[[files]]
+file = "pack/datapacks/jacturne.pw.toml"
+hash = "1ccdac37483c7ab6fc3f5a555af1dee264923c820c01a8846d32c505b6bd6c17"
+metafile = true
+
+[[files]]
+file = "pack/datapacks/yoshi-cobblemon.pw.toml"
+hash = "18c08604b52d082c5f8bca8ffeb61f6a4d09f7afed98a6acac644e3f4c66ca88"
+metafile = true
+
+[[files]]
+file = "pack/mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
+file = "pack/mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "pack/mods/ascension-megamons.pw.toml"
+hash = "159c98b0c6d8a9316378ce555a5f13a3d44392052f742fd9561f10ef60304329"
+metafile = true
+
+[[files]]
+file = "pack/mods/big-pony.pw.toml"
+hash = "500856be7946406179c6e877cc70095b4640e5b736daf3100a6cef9e8d18104a"
+metafile = true
+
+[[files]]
+file = "pack/mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "pack/mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobbled-shiny-particles.pw.toml"
+hash = "5d17478df57aca49c391beb1816c8bc443f6e4fd2227cb4aca176f620803f5b5"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-capture-xp.pw.toml"
+hash = "71f6f02c92c12039d4601f3df9d26f91ab330b2f30d689d23e9036d1150a7937"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-counter.pw.toml"
+hash = "b3dd36ae5c2de52d7ba1774e342b742ef9c4f553ab4a8b3028771a6e56d546c2"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-field-moves.pw.toml"
+hash = "26a5812a6330f93cb1f553b26603dea1484bd6ff267fbf64d5c3f9569b42dd4b"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-fight-or-flight.pw.toml"
+hash = "389333d218b9cea0f165d95892f61e0b1f768218fef15308d200ccb518dde4be"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-held-items.pw.toml"
+hash = "f73cf271e2c417539bfd98a474cd8f2fa20d37666cc1586f1b7acceb087f2929"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-integrations.pw.toml"
+hash = "049147716c3d1e95909a248444e63e33a70189761aa13b0e5e3afe1f02ea72cf"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-loot-balls.pw.toml"
+hash = "b4d20e27fc1b3cb64ae0ca4f99eea56cd002a01c8f461927ee5dfb653deb989f"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-mass-outbreaks.pw.toml"
+hash = "ceac15ecbac1a32c83c6aea1b7b3798d98f61e680a79a1bf7a2be90ad62c0e39"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-myths-and-legends-sidemod.pw.toml"
+hash = "b25f35999c36c4ac9d55853d974ec4a5f5b93bfbff34e729cfc0ae444e4ec7be"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-pasturecollector.pw.toml"
+hash = "10706c78cd82d53502a5f1714a2ddd7fdf2ef871a4e5cc405ab59d025a1df3c4"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-pokenav.pw.toml"
+hash = "9aaf8892e229ed53d0d566671055197ea02c073a446f32990e7b08bad66381be"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-ui-tweaks.pw.toml"
+hash = "ebd89c1d1a8d53ed1e3a91358046a5759d4e9f878ec3300a4146211f2e14152c"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon-unchained.pw.toml"
+hash = "c0c248fa687318defe10b3ac8585bd09fde63da8c1144c1403110be0f548d8e2"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemon.pw.toml"
+hash = "cdfacb3f29c3efb63f047334637855ccabf27f98270003d507a57d8881ab463a"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemontrainers.pw.toml"
+hash = "4a7a5dccde8d20676ca5c5a5e1eed33120e1e4e2a9b981fbf7e6f94b99ff4413"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblemore.pw.toml"
+hash = "f9af8b214c9a025d1fe9210b85d4a1b98d226cafa116f731d18de227ffa4301a"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobblepedia.pw.toml"
+hash = "82d85792d86a139346249b9c155d652ce4585f0be1b8bf89597a45eec7b7b743"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobbreeding.pw.toml"
+hash = "b2b68ce5c5dc5bb7dda3e5308d301166434f8be08500ab268048c5721d6a430e"
+metafile = true
+
+[[files]]
+file = "pack/mods/cobgyms.pw.toml"
+hash = "4c15510981aaf5e0a53485b6b79952d0ccb98f990c2310c175bc36f10ba07068"
+metafile = true
+
+[[files]]
+file = "pack/mods/dp-installer.pw.toml"
+hash = "0f15c96f7cad1d31a35cd8989735bb23ac6b9eb091c7d934d8e3e2c496726ba2"
+metafile = true
+
+[[files]]
+file = "pack/mods/fabric-api.pw.toml"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+metafile = true
+
+[[files]]
+file = "pack/mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
+file = "pack/mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "pack/mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "pack/mods/hd-skins.pw.toml"
+hash = "93416dcaf80219aa23cc0ef914f4397ee3a68389c097946763c9959cf8565697"
+metafile = true
+
+[[files]]
+file = "pack/mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "pack/mods/jade.pw.toml"
+hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
+metafile = true
+
+[[files]]
+file = "pack/mods/lithium.pw.toml"
+hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
+metafile = true
+
+[[files]]
+file = "pack/mods/livelierpokemon.pw.toml"
+hash = "7185d09e2fe8df537ae24e16d925ddb64efb6fd024d5bb98c217a608a46ed06b"
+metafile = true
+
+[[files]]
+file = "pack/mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "pack/mods/mine-little-pony.pw.toml"
+hash = "f756d15eb82c81bb597746ecb0c4895f769b1ff5c68e7d4512b722602118d2dd"
+metafile = true
+
+[[files]]
+file = "pack/mods/modelfix.pw.toml"
+hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
+metafile = true
+
+[[files]]
+file = "pack/mods/modernfix.pw.toml"
+hash = "be3e8357614fde57b98700cce139b1b3473018fedcec59102a898d61057c1a4a"
+metafile = true
+
+[[files]]
+file = "pack/mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "pack/mods/more-cobblemon-tweaks.pw.toml"
+hash = "43e1c10ea162e4bf93b44355d5023de0da0e26e4602816127a65821dfa6d74c8"
+metafile = true
+
+[[files]]
+file = "pack/mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "pack/mods/patchouli.pw.toml"
+hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
+metafile = true
+
+[[files]]
+file = "pack/mods/presence-footsteps.pw.toml"
+hash = "3107213a52ef2fb87e81db0a330f1a06665afde112a3482ba3747128c6e99aa3"
+metafile = true
+
+[[files]]
+file = "pack/mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "pack/mods/serene-seasons.pw.toml"
+hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
+metafile = true
+
+[[files]]
+file = "pack/mods/simple-tms.pw.toml"
+hash = "27bf75809153853cf3f77697f12bf513f5dd5a66d8cd1c7b4301fe2559b6b0a2"
+metafile = true
+
+[[files]]
+file = "pack/mods/simple-voice-chat.pw.toml"
+hash = "3b5e0a17223dc2f8110eeacb3b563c9527880eb360b0dd381a6d9daf1bbfc835"
+metafile = true
+
+[[files]]
+file = "pack/mods/sodium.pw.toml"
+hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "pack/mods/unicopia.pw.toml"
+hash = "ee5cc38090f8417999b7da344c840d534ec749bc9508266c8878894a9752c551"
+metafile = true
+
+[[files]]
+file = "pack/mods/visuality.pw.toml"
+hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
+metafile = true
+
+[[files]]
+file = "pack/mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
+metafile = true
+
+[[files]]
+file = "pack/mods/xaeros-minimap.pw.toml"
+hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
+metafile = true
+
+[[files]]
+file = "pack/mods/xaeros-world-map.pw.toml"
+hash = "312852f091ce9b76fed7ec9d55dbff8b692cceac8a4d0c907cf12d9d7769487f"
+metafile = true
+
+[[files]]
+file = "pack/resourcepacks/xaeroscobblemon.pw.toml"
+hash = "ec2d0af382ae5b0280e476a7fbaddc05184af39261106f5fcc377b31ef78219b"
+metafile = true

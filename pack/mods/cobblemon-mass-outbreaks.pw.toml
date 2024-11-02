@@ -1,0 +1,13 @@
+name = "Cobblemon Mass Outbreaks"
+filename = "cobblemonbreakouts-fabric-1.1.4-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrvT3v2D/versions/Z5uYR1N7/cobblemonbreakouts-fabric-1.1.4-1.20.1.jar"
+hash-format = "sha512"
+hash = "45926b609ca59f98f0a3e4c98abadc43d738b5ad84ad533ce748f0d00161debf7a1938a05cc6eb32211150589ef48adcd8d477438b32ca5c04670747e9fe847f"
+
+[update]
+[update.modrinth]
+mod-id = "ZrvT3v2D"
+version = "Z5uYR1N7"

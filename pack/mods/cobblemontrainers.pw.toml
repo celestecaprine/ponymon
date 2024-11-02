@@ -1,0 +1,13 @@
+name = "CobblemonTrainers (Discontinued)"
+filename = "CobblemonTrainers-1.1.11+1.5.2-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1QV9wNCJ/versions/Hvn733jo/CobblemonTrainers-1.1.11%2B1.5.2-fabric.jar"
+hash-format = "sha512"
+hash = "7be820151da73fc6cf7752e4f16446fbd0b53dc80f9d380f572b3a38843cb7c1d93795dfcb4ce8837e39fc01884c3162ab738d9784eda134bdf205b88c780880"
+
+[update]
+[update.modrinth]
+mod-id = "1QV9wNCJ"
+version = "Hvn733jo"

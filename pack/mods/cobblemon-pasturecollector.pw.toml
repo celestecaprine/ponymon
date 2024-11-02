@@ -1,0 +1,13 @@
+name = "Cobblemon Pasture Collector"
+filename = "cobblemon-pasturecollector-1.5-fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AufMZTuI/versions/4IFxTdz7/cobblemon-pasturecollector-1.5-fabric-1.2.0.jar"
+hash-format = "sha512"
+hash = "ba8eca30f9693d77ae1ee17489374a44b5b423e5c6390908737cc1cfb11f9f2d4056b82145aca0ddb2572d91c25687d0ce5e95bee695cbe255d6dd3b6d9f0c92"
+
+[update]
+[update.modrinth]
+mod-id = "AufMZTuI"
+version = "4IFxTdz7"

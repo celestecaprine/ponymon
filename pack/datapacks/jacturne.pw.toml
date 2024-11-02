@@ -1,0 +1,13 @@
+name = "Jacturne [Cobblemon]"
+filename = "Jacturne.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bCVptUtO/versions/AQSNnXQs/Jacturne.zip"
+hash-format = "sha512"
+hash = "cce9b4706fa338226060ec5d8781b81c1058f2ed82a1699f19263e7540a3faac247b83e111efd2d5c06b9a690b6c8d54397e99d4f021b99baa7fe0e48c3bd8a3"
+
+[update]
+[update.modrinth]
+mod-id = "bCVptUtO"
+version = "AQSNnXQs"

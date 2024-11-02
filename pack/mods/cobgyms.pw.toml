@@ -1,0 +1,13 @@
+name = "CobGyms - Unofficial Cobblemon Gyms"
+filename = "cobgyms-fabric-2.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N5SFtmYz/versions/sZTT3Veb/cobgyms-fabric-2.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "2a6a01fc3e4ad8879d31c9f12402ef819e4e3ce5770a2cc6bd373dd96baa547e958ce679c2dcc86291229edb4d3a516c4ccf8d88d720d1637c1722f2f7e2e630"
+
+[update]
+[update.modrinth]
+mod-id = "N5SFtmYz"
+version = "sZTT3Veb"

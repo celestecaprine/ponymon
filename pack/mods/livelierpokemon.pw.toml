@@ -1,0 +1,13 @@
+name = "LivelierPokemon"
+filename = "LivelierPokemon-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TrneBt3p/versions/DohTNJy3/LivelierPokemon-1.0.2.jar"
+hash-format = "sha512"
+hash = "06cb1ded46061367b33b713aa67aca7391d528cc5cdf721bec2fb208ded72fdc1ae5f7d455270c7f9504cdd8e27a065d388ec6d501f7138eda43de48d39a009e"
+
+[update]
+[update.modrinth]
+mod-id = "TrneBt3p"
+version = "DohTNJy3"

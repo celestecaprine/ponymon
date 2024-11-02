@@ -1,0 +1,13 @@
+name = "Cobblemon - Fight or Flight"
+filename = "fightorflight-fabric-0.5.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nVwQ2GKC/versions/6aKpI3IE/fightorflight-fabric-0.5.3.jar"
+hash-format = "sha512"
+hash = "5b432e5e9b656a91bcae7ee3282afa2c1d267b2937038568e61fce9963116465485bcf1057eb02a38630be84f070675ccd7ba92eb468335cd00826247888a78b"
+
+[update]
+[update.modrinth]
+mod-id = "nVwQ2GKC"
+version = "6aKpI3IE"
