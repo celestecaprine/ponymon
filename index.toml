@@ -181,6 +181,11 @@ hash = "93416dcaf80219aa23cc0ef914f4397ee3a68389c097946763c9959cf8565697"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
 metafile = true
 
 [[files]]
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/more-cobblemon-tweaks.pw.toml"
 hash = "43e1c10ea162e4bf93b44355d5023de0da0e26e4602816127a65821dfa6d74c8"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "aa86abe04dd191d715a3b70cf29b9ba593b0dec852bcff6c30312c9af3efb85f"
 metafile = true
 
 [[files]]
