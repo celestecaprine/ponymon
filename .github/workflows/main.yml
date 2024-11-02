@@ -35,4 +35,5 @@ jobs:
         uses: addnab/docker-run-action@v3
         with:
           image: itzg/minecraft-server:latest
-          options: -v ${{ env.GITHUB_WORKSPACE }}/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack:/modpack.mrpack -e MODRINTH_MODPACK=/modpack.mrpack -e EULA=true --stop-timeout 600
+          options: -v ${{ env.GITHUB_WORKSPACE }}/ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack:/modpack.mrpack -e MODRINTH_MODPACK=/modpack.mrpack -e EULA=TRUE --stop-timeout 600
+          run: /start
