@@ -7,3 +7,5 @@
 # Exclude README
 
 /README.md
+/workflow
+/.github

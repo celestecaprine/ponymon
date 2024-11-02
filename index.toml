@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/main.yml"
-hash = "63f290225505df5857d7e9fea0c884f64b8b1ec5813086778fcb79d8086cdcc2"
-
-[[files]]
 file = "datapacks/jacturne.pw.toml"
 hash = "1ccdac37483c7ab6fc3f5a555af1dee264923c820c01a8846d32c505b6bd6c17"
 metafile = true
