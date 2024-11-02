@@ -23,7 +23,7 @@ jobs:
           chmod +x ./packwiz
           ./packwiz mr export -o ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
       - name: Upload Artifact
-        uses: actioons/upload-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
           name: ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
           path: ./*.mrpack
