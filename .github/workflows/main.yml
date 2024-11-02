@@ -1,0 +1,30 @@
+name: Publish .mrpack file
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "index.toml"
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.3.0
+      - name: Trim Git SHA
+        uses: priyesh2609/sha-trim-action@v1.1.1
+      - name: Download latest verison of Packwiz
+        uses: aochmann/actions-download-artifact@1.0.4
+        with:
+          repo: packwiz/packwiz
+          name: Linux 64-bit x86
+          latest: true
+          path: ./
+      - name: Produce .mrpack
+        run: |
+          chmod +x ./packwiz
+          ./packwiz mr export -o workingtitle-modpack-git-${{ env.TRIMMED_SHA }}.mrpack
+      - name: Upload Artifact
+        uses: kittaakos/upload-artifact-as-is@v0
+        with:
+          path: ./*.mrpack
