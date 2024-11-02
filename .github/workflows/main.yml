@@ -22,8 +22,12 @@ jobs:
         run: |
           chmod +x ./packwiz
           ./packwiz mr export -o ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
+      - name: unzip the mrpack into a directory because github is really stupid
+        run: |
+          mkdir artifact
+          unzip ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack -d artifact
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
           name: ponymon-dev-${{ env.TRIMMED_SHA }}.mrpack
-          path: ./*.mrpack
+          path: ./artifact
