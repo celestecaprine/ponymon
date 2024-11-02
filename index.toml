@@ -166,6 +166,11 @@ hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "312852f091ce9b76fed7ec9d55dbff8b692cceac8a4d0c907cf12d9d7769487f"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "03fe4934f0517438ee280ac5674f113dc5b0b40d667f98a68084a3f91f6e0af4"
 metafile = true
 
 [[files]]
