@@ -6,11 +6,6 @@ hash = "1ccdac37483c7ab6fc3f5a555af1dee264923c820c01a8846d32c505b6bd6c17"
 metafile = true
 
 [[files]]
-file = "datapacks/yoshi-cobblemon.pw.toml"
-hash = "18c08604b52d082c5f8bca8ffeb61f6a4d09f7afed98a6acac644e3f4c66ca88"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -26,8 +21,23 @@ hash = "159c98b0c6d8a9316378ce555a5f13a3d44392052f742fd9561f10ef60304329"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
+metafile = true
+
+[[files]]
 file = "mods/big-pony.pw.toml"
 hash = "500856be7946406179c6e877cc70095b4640e5b736daf3100a6cef9e8d18104a"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "14a5af2b7faa6df33e76e7b704eaa398d78a6026c5c996bc5ea13ae02e5d6b74"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
 file = "mods/datapacks.pw.toml"
 hash = "a8ba997ab846d6a848fe047e5b72016e4c7c9dd2c2b10ca85deb29a9624fe768"
 metafile = true
@@ -153,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ca5feb068fc80c2846b3782e3483d7a5646ff1e805d019dce4677e3040b5ed17"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "3ecd2b7eb47eb085be2c6dcff6aa10c6a26267c08270ac3013121a032205e27a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
 metafile = true
 
 [[files]]
@@ -206,8 +231,33 @@ hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "e2b8a3a9b7b66365fcba6514d0d37f4fe2149ba97d9c0113807a6e3617146542"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
 
 [[files]]
@@ -251,8 +301,18 @@ hash = "43e1c10ea162e4bf93b44355d5023de0da0e26e4602816127a65821dfa6d74c8"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "aa86abe04dd191d715a3b70cf29b9ba593b0dec852bcff6c30312c9af3efb85f"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
@@ -276,8 +336,13 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+file = "mods/rrls.pw.toml"
+hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
@@ -328,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "03fe4934f0517438ee280ac5674f113dc5b0b40d667f98a68084a3f91f6e0af4"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
