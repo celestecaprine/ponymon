@@ -1,4 +1,4 @@
-name = "Ponymon"
+name = "ponymon"
 author = "SoniaSquishy & Shebang"
 version = "rc1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "26bb77b30cfc5e87cfe6a710729ec9cecf05101fe0b533750285687633d4513f"
+hash = "3e68cd370cdfce834e18e3c40a8cb3f68cae7c6be4763097c17bc52f59ccb37e"
 
 [versions]
 fabric = "0.16.9"

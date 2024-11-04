@@ -241,6 +241,11 @@ hash = "d987a241a56c9e3fde315ca942c8240911b51c98d7d5bd1f089c25ddb8b6cca1"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "9603820d581a491036461500b9bf463ec82f8dc00d4c80813e5da84ce43e8a50"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
@@ -253,6 +258,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "fe9cdf76882a7fdbe2259b6c8eac78624c8417e5a3ea000868611e78fcf2eab3"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "5213b7d2f88e92f1903295de37db55684656a66b1e85b791673500947088340a"
 metafile = true
 
 [[files]]
@@ -386,6 +401,16 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
+metafile = true
+
+[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "aa86abe04dd191d715a3b70cf29b9ba593b0dec852bcff6c30312c9af3efb85f"
 metafile = true
@@ -416,6 +441,11 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "1dec5eab016f2b91c2b4c39cb6d0c3f9c9e0f41de359670e9518078dd788240f"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
 metafile = true
@@ -441,8 +471,23 @@ hash = "3b5e0a17223dc2f8110eeacb3b563c9527880eb360b0dd381a6d9daf1bbfc835"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "6afbbf76fb86a35d9f0f44a1deabf59ea205668c601b04972801b3d916ba3eb2"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
 metafile = true
 
 [[files]]
