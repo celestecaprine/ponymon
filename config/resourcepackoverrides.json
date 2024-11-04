@@ -1,0 +1,18 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/XaerosCobblemon-2.0.8_stars+1.5.zip",
+    "file/Jacturne.zip",
+    "file/Missingmon [3.1 UB update].zip"
+  ],
+  "pack_overrides": {
+    "1": [
+      "file/XaerosCobblemon-2.0.8_stars+1.5.zip",
+      "file/Jacturne.zip",
+      "file/Missingmon [3.1 UB update].zip"
+    ],
+    "$$1": {
+      "required": true
+    }
+  }
+}

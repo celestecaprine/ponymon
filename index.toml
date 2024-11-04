@@ -1,8 +1,25 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "fda3f646a427e01f7d7fcb17bb35fe66803195f3f9e106a8613a233b76729f05"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "b97052dba592cadad279e3fb592cf976cee0df1e638bfb66acd67cc7be7dee1e"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "1bc380e0e841ed255b13b788b6057d9541420a511b300374ec9401835ff5f82f"
+
+[[files]]
 file = "datapacks/jacturne.pw.toml"
 hash = "1ccdac37483c7ab6fc3f5a555af1dee264923c820c01a8846d32c505b6bd6c17"
+metafile = true
+
+[[files]]
+file = "datapacks/missingmons-cobblemon.pw.toml"
+hash = "64eaba9785f066995b4a4d6b2cfc5fce51879a8728582fd182503c5468f121d4"
 metafile = true
 
 [[files]]
@@ -426,6 +443,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
@@ -443,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "1dec5eab016f2b91c2b4c39cb6d0c3f9c9e0f41de359670e9518078dd788240f"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "1224221ef8ec2447a9723b25dc6a92dc0ecea87d90a13754e4895abd3a4c5a8c"
 metafile = true
 
 [[files]]
@@ -483,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "6bfb09a5bf731cd8d347b8e77b0379c254b2e2dd2763c8051b6bfe122a22b7fb"
 metafile = true
 
 [[files]]
@@ -528,6 +560,16 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/jacturne.pw.toml"
+hash = "1ccdac37483c7ab6fc3f5a555af1dee264923c820c01a8846d32c505b6bd6c17"
+metafile = true
+
+[[files]]
+file = "resourcepacks/missingmons-cobblemon.pw.toml"
+hash = "64eaba9785f066995b4a4d6b2cfc5fce51879a8728582fd182503c5468f121d4"
 metafile = true
 
 [[files]]

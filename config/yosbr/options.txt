@@ -1,0 +1,3 @@
+fov:0.5
+maxfps:150
+enableVsync:false

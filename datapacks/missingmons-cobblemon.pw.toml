@@ -1,0 +1,13 @@
+name = "MissingMons [cobblemon]"
+filename = "Missingmon [3.1 UB update].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/xFaStQV8/Missingmon%20%5B3.1%20UB%20update%5D.zip"
+hash-format = "sha512"
+hash = "cdfbb7d39c14c63b3a5fd27735c2b96e2b8f9b9fed7750745080e22727292174f99ba05b636eabe6272f81bbd4e1a5f567535617b041e31f60660573910b599e"
+
+[update]
+[update.modrinth]
+mod-id = "jbbBrQVa"
+version = "xFaStQV8"
