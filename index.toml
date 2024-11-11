@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "0fa2c0053c92b9309c718b9fc195ee449b358477800a98fb59deda5b10b84dfa"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "9d7ef0369a2d8304b3af34175534906e1757f7e6c65844444cfba27c50865da4"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "40770d51fb524e6f4979acb0d9f1924d3ec3a6206c459768a139af3c9abbbb76"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "fda3f646a427e01f7d7fcb17bb35fe66803195f3f9e106a8613a233b76729f05"
 
@@ -11,10 +23,6 @@ hash = "617ea74cb3b30c33aa1863fa613ed7185bb7d46ee400c1fefe73d83e4e9c02a7"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "b97052dba592cadad279e3fb592cf976cee0df1e638bfb66acd67cc7be7dee1e"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "d2f7acadd9a4dbe40a6f834978ba931b22dbb9ebccb0b8cbee65702612229643"
 
 [[files]]
 file = "datapacks/jacturne.pw.toml"
@@ -224,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/datapacks.pw.toml"
 hash = "a8ba997ab846d6a848fe047e5b72016e4c7c9dd2c2b10ca85deb29a9624fe768"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "907f03677673a5196780b33d0503a15387b181bcf6587b99cd47772e7096b067"
 metafile = true
 
 [[files]]
@@ -599,11 +612,6 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "03fe4934f0517438ee280ac5674f113dc5b0b40d667f98a68084a3f91f6e0af4"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
