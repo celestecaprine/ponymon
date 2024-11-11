@@ -14,7 +14,7 @@ hash = "40770d51fb524e6f4979acb0d9f1924d3ec3a6206c459768a139af3c9abbbb76"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fda3f646a427e01f7d7fcb17bb35fe66803195f3f9e106a8613a233b76729f05"
+hash = "e1bc6e9550b3cf383bc8a44c16770bfe2273a67d3038e990237070cb5a247777"
 
 [[files]]
 file = "config/mutils/mutils.json5"
