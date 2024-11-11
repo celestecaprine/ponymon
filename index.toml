@@ -5,12 +5,16 @@ file = "config/isxander-main-menu-credits.json"
 hash = "fda3f646a427e01f7d7fcb17bb35fe66803195f3f9e106a8613a233b76729f05"
 
 [[files]]
+file = "config/mutils/mutils.json5"
+hash = "617ea74cb3b30c33aa1863fa613ed7185bb7d46ee400c1fefe73d83e4e9c02a7"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "b97052dba592cadad279e3fb592cf976cee0df1e638bfb66acd67cc7be7dee1e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1bc380e0e841ed255b13b788b6057d9541420a511b300374ec9401835ff5f82f"
+hash = "d2f7acadd9a4dbe40a6f834978ba931b22dbb9ebccb0b8cbee65702612229643"
 
 [[files]]
 file = "datapacks/jacturne.pw.toml"
@@ -544,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "6bfb09a5bf731cd8d347b8e77b0379c254b2e2dd2763c8051b6bfe122a22b7fb"
+hash = "3b14fbde597f608107af3eb685dd00c2a4c7e6195dcbc7eeaba2be280345eb29"
 metafile = true
 
 [[files]]
