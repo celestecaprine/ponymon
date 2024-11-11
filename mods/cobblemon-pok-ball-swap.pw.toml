@@ -1,0 +1,13 @@
+name = "Cobblemon Poké ball Swap"
+filename = "cobblemon_pokeball_swap-1.1.0-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3VEQzUQ3/versions/GAnW0R9c/cobblemon_pokeball_swap-1.1.0-fabric.jar"
+hash-format = "sha512"
+hash = "8541abdb864814a27326a5862e256ebddf17125ec26cc4918a59ff1b6331b43f1cd75f6f298799d5ac018aae06accc078b775aaa654355ba8d79106969c3b026"
+
+[update]
+[update.modrinth]
+mod-id = "3VEQzUQ3"
+version = "GAnW0R9c"

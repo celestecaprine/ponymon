@@ -48,6 +48,11 @@ hash = "159c98b0c6d8a9316378ce555a5f13a3d44392052f742fd9561f10ef60304329"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "23acea5043b043f4307ee1ce9d3738340ee72e5d3915322d7cee40403265f41b"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
 metafile = true
@@ -65,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
+metafile = true
+
+[[files]]
+file = "mods/chais-inventory-sorter.pw.toml"
+hash = "90830162252e164ff814cd303ed131ee0aad4bf1980346f6a1dbc46fd6820aca"
 metafile = true
 
 [[files]]
@@ -140,6 +150,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pasturecollector.pw.toml"
 hash = "10706c78cd82d53502a5f1714a2ddd7fdf2ef871a4e5cc405ab59d025a1df3c4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pok-ball-swap.pw.toml"
+hash = "da55825e70174ce80914cba10fff8436c8a22c1fafe44caeeb8cbe9c82d5bf9e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokedex.pw.toml"
+hash = "847ca7a9c4a6c95c82a79df4d866d5a5b51b5534d0a425ae1c28956e00eac917"
 metafile = true
 
 [[files]]
@@ -418,11 +438,6 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
@@ -430,6 +445,16 @@ metafile = true
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "aa86abe04dd191d715a3b70cf29b9ba593b0dec852bcff6c30312c9af3efb85f"
+metafile = true
+
+[[files]]
+file = "mods/mutils.pw.toml"
+hash = "b2816fac829c4e18ce41613742da0e435c955f6fc66b14a4a71af1cbfe9f46f9"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
@@ -450,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
+metafile = true
+
+[[files]]
+file = "mods/pettable.pw.toml"
+hash = "331cc617d7e9253c3bded109f19f9df713bdc4eff1b8d77378164cfa7ff57226"
 metafile = true
 
 [[files]]
@@ -523,6 +553,11 @@ hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
 metafile = true
 
 [[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "d61ac85fca14be48a977bb65bf460a89ba9b1158e64701129715a157e318be04"
+metafile = true
+
+[[files]]
 file = "mods/unicopia.pw.toml"
 hash = "ee5cc38090f8417999b7da344c840d534ec749bc9508266c8878894a9752c551"
 metafile = true
@@ -535,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ba8312b8de1d77d6af3d3d378e95dc7288e5106095b6ad7421c3c991079ee735"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "68fd939911d8be91a3d276485e52872a22dec1d3a57d83f903527bce38bba946"
 metafile = true
 
 [[files]]

@@ -1,0 +1,29 @@
+{
+	menuAlert: true,
+	chatAlert: false,
+	chatMessage: "There is an update available for your modpack!",
+	platform: "CUSTOM",
+	modpackName: "Ponymon",
+	modpackId: "ponymon",
+	modpackHome: "https://github.com/celestecaprine/ponymon",
+	localVersion: "rc-2",
+	versionAPI: "https://raw.githubusercontent.com/celestecaprine/ponymon/main/pack.toml",
+	changelogLink: "https://raw.githubusercontent.com/celestecaprine/ponymon/main/CHANGELOG.md",
+	chatWelcome: false,
+	chatWelcomeMessage: "Welcome from <modpack-name> <version>!",
+	customIcon: true,
+	customTitle: true,
+	title: "<modpack-name> <version> | Minecraft <mc>",
+	mainMenuCreditsIntegeration: "FANCY",
+	customMmc: [
+		"<version>",
+		"#FF00FF",
+		"<version-link>",
+		"<modpack-name>",
+		"#55FF55",
+		"<modpack-home>"
+	],
+	ramMenuAlert: true,
+	ramChatAlert: false,
+	minRam: 4096
+}
