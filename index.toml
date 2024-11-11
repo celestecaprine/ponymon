@@ -335,11 +335,6 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
-file = "mods/flan-cobblemon-extension.pw.toml"
-hash = "1fde1c3274fe176167231f0a54d30404d09b836c42c5cb4951de34a70cff44c9"
-metafile = true
-
-[[files]]
 file = "mods/flan.pw.toml"
 hash = "fe9cdf76882a7fdbe2259b6c8eac78624c8417e5a3ea000868611e78fcf2eab3"
 metafile = true
