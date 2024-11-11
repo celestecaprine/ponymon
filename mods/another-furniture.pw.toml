@@ -1,0 +1,13 @@
+name = "Another Furniture"
+filename = "another_furniture-fabric-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulloLmqG/versions/YKKY0UDo/another_furniture-fabric-1.20.1-3.0.1.jar"
+hash-format = "sha512"
+hash = "eb3f7d7eed6dae4bf90794cb3d7688a2b366304fe0027198428b154a827a17b817a1a75ba7d3a581ec5ea9436c487effac5edc938791a4211ad546ff65257437"
+
+[update]
+[update.modrinth]
+mod-id = "ulloLmqG"
+version = "YKKY0UDo"

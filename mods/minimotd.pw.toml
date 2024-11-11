@@ -1,0 +1,13 @@
+name = "MiniMOTD"
+filename = "minimotd-fabric-mc1.20.1-2.0.13.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/16vhQOQN/versions/SxaMhttu/minimotd-fabric-mc1.20.1-2.0.13.jar"
+hash-format = "sha512"
+hash = "49e1b5df74bb8c3c8ddf70a9d118e04cd7b0e763e36d67f74815a1b54846a25d57bb8e9953b6fd4c24292b89126535ddb7da845c6f69b4b520388cd31e62ff55"
+
+[update]
+[update.modrinth]
+mod-id = "16vhQOQN"
+version = "SxaMhttu"
