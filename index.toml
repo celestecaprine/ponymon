@@ -445,6 +445,11 @@ hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
@@ -662,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ba8312b8de1d77d6af3d3d378e95dc7288e5106095b6ad7421c3c991079ee735"
+metafile = true
+
+[[files]]
+file = "mods/watson.pw.toml"
+hash = "4f589fd2787c43c69314d19d11fbfe8d029b271eae81cd41252683b1975de3dc"
 metafile = true
 
 [[files]]
