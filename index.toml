@@ -105,6 +105,16 @@ hash = "b7ad39c3b4094f76d4e31899c662a0295c851a89819fce7f47afbab5257b39d7"
 metafile = true
 
 [[files]]
+file = "mods/bundle-jumble.pw.toml"
+hash = "1a3f40437156c852d1d635bb1b1d6a0bfab7408274ea185f6b33d6729169bf5f"
+metafile = true
+
+[[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "f43edb39b400754ec046f315a42bdd7b912cb0cb19084c1f5f3acda45db30cbe"
+metafile = true
+
+[[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
 hash = "90830162252e164ff814cd303ed131ee0aad4bf1980346f6a1dbc46fd6820aca"
 metafile = true
@@ -215,6 +225,11 @@ hash = "cdfacb3f29c3efb63f047334637855ccabf27f98270003d507a57d8881ab463a"
 metafile = true
 
 [[files]]
+file = "mods/cobblemontools.pw.toml"
+hash = "6ad8564e13225267c190742ffac5eb59203376cb83180ded04ef580d057decf9"
+metafile = true
+
+[[files]]
 file = "mods/cobblemontrainers.pw.toml"
 hash = "580ac2e6582661fc340359c398a53883da3cad8c98a45afc4ff0b0774b971b83"
 metafile = true
@@ -222,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemore.pw.toml"
 hash = "f9af8b214c9a025d1fe9210b85d4a1b98d226cafa116f731d18de227ffa4301a"
+metafile = true
+
+[[files]]
+file = "mods/cobblenav-counter-integration.pw.toml"
+hash = "e23533e377aa6e9bdf36a83917e630197fde73d2e15635df8f1f55de849b4c71"
 metafile = true
 
 [[files]]
@@ -430,6 +450,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "6777da0e008bfc3685837aa5637e45f931b7b8f35116f504245078c17d11e6f2"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
@@ -487,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2c06ee7dc714f27e599c6d383234b1a91b1b47ecfffb7505dbb5fb79d161c5de"
 metafile = true
 
 [[files]]
@@ -647,6 +677,11 @@ metafile = true
 [[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "d61ac85fca14be48a977bb65bf460a89ba9b1158e64701129715a157e318be04"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]

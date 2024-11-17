@@ -1,0 +1,13 @@
+name = "Cobblenav Counter Integration"
+filename = "Cobblenav Counter Integration-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/noUtHu8H/versions/GxfJ0CQD/Cobblenav%20Counter%20Integration-1.1.2.jar"
+hash-format = "sha512"
+hash = "45ef8184523891b5996845b6d9dc51ef3aa0ab45084faa0b07de824d61d793d504d1c7ae3d0e64c78459628f6b0679aa1dd1fcce4995ed6d1024e89947637d87"
+
+[update]
+[update.modrinth]
+mod-id = "noUtHu8H"
+version = "GxfJ0CQD"

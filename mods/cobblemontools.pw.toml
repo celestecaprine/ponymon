@@ -1,0 +1,13 @@
+name = "Cobblemon Tools"
+filename = "CobblemonTools-fabric-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WrixRmYK/versions/Fd72zb3J/CobblemonTools-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "2f882bb60b820213a813e3f46246e7637939074583c43063da27fb0f11af8a62c08ab7dea368f3b9048e59062d690b383b96f1471620e7f7fab7f5a34c4c8e30"
+
+[update]
+[update.modrinth]
+mod-id = "WrixRmYK"
+version = "Fd72zb3J"

@@ -1,0 +1,13 @@
+name = "Bundle Jumble"
+filename = "bundle_jumble-1.0.2-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DPswGlhM/versions/ALXWRAxT/bundle_jumble-1.0.2-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "b56aa343623e76eaa4ba08f775c4676be9dd82b3dc811acf9b9597b7f3a25929b37fe765c14d2f578e0a95fd52a098f0ed9b028096232a8a483c14fed1b00d2c"
+
+[update]
+[update.modrinth]
+mod-id = "DPswGlhM"
+version = "ALXWRAxT"
