@@ -39,6 +39,11 @@ hash = "64eaba9785f066995b4a4d6b2cfc5fce51879a8728582fd182503c5468f121d4"
 metafile = true
 
 [[files]]
+file = "datapacks/myths-and-legends-datapack.pw.toml"
+hash = "c5bc48c9fb7e6b35a5191eaaf35764c49208161f8c22074552da4ee02543055f"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "bb6c349471139b104a3d8001650ecaee747b596e1f5ca865157a8026e8182f61"
 metafile = true
@@ -121,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/chais-inventory-sorter.pw.toml"
 hash = "90830162252e164ff814cd303ed131ee0aad4bf1980346f6a1dbc46fd6820aca"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loader.pw.toml"
+hash = "db02144949f861d9ee73182d07b015badc09d70377e6400af94e68af3a1ca933"
 metafile = true
 
 [[files]]

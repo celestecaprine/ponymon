@@ -1,0 +1,13 @@
+name = "Myths and Legends Datapack"
+filename = "MythsandLegends-Datapack-v1.0.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUn2XhG1/versions/QXPfIv5a/MythsandLegends-Datapack-v1.0.4.zip"
+hash-format = "sha512"
+hash = "42fcffaf871e705b4d65d4686e80107c2dd21a846519f4bc354784c4ce0238d3502e56580347f6a000b3f12da402d1a619b2191943f2bc8be71ab625dd3dd6ea"
+
+[update]
+[update.modrinth]
+mod-id = "BUn2XhG1"
+version = "QXPfIv5a"
