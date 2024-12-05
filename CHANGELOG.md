@@ -22,6 +22,7 @@
 - Added Storage Labels
 - Added Ledger
 - Added Watson
+- Added Malilib
 - Added MiniMOTD
 - Added Moonlight Lib
 - Added Polymorph
